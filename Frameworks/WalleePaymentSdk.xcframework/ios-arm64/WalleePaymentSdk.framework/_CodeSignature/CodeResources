@@ -26,7 +26,7 @@
 		</data>
 		<key>AccessibilityResources.bundle/_CodeSignature/CodeSignature</key>
 		<data>
-		6QaWTXK524fRxy4v4bT5vp4UEvw=
+		TLg3Kno3nSaPGqEsfrBdVFovU6U=
 		</data>
 		<key>AccessibilityResources.bundle/en.lproj/Localizable.strings</key>
 		<dict>
@@ -43,7 +43,7 @@
 		</data>
 		<key>Frameworks/OpenSSL.framework/OpenSSL</key>
 		<data>
-		rXNWIcaTcWR94OzJ3Fds+ysVJbI=
+		pC82JeaTLjpUqDF27IoXlwHQOhM=
 		</data>
 		<key>Frameworks/OpenSSL.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -59,7 +59,7 @@
 		</data>
 		<key>Frameworks/double-conversion.framework/double-conversion</key>
 		<data>
-		b6QfKJleN04/R6ntoot9YI4vgoE=
+		a3GzQueobnvrLnrr6Ts5pBctU3o=
 		</data>
 		<key>Frameworks/glog.framework/Info.plist</key>
 		<data>
@@ -71,7 +71,7 @@
 		</data>
 		<key>Frameworks/glog.framework/glog</key>
 		<data>
-		PBbnHaB7/yXsei0S1e90VtL2vv4=
+		ICRKCh5bqEdqE1lj7IG8IOVCNI8=
 		</data>
 		<key>Headers/WalleePaymentSdk-Swift.h</key>
 		<data>
@@ -167,7 +167,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/3sj12PiuRX4Bf5ceS5R3aDyZIAB8HKK1fDUaVC2zpA=
+			feyq8IaHItY+IGgy6h7awLlq0aGz9/kFHeduXtpjRss=
 			</data>
 		</dict>
 		<key>AccessibilityResources.bundle/en.lproj/Localizable.strings</key>
@@ -190,7 +190,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bdBCYnnfJ0FTXoA57cCXOqjco3gUC0UaYK6vM/DGKRg=
+			DoVbGhkV3KoF2h+TYVGTkNR3/iNEy0gyx1Ogvec7qXA=
 			</data>
 		</dict>
 		<key>Frameworks/OpenSSL.framework/_CodeSignature/CodeResources</key>
@@ -218,7 +218,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Dxd4BwOLqgrtS88fwDq4aYtPoe3FpWAvQepnhXMTcuk=
+			f2VJg9uOViUpfIZrX5eUI/mFF3SXNuzQqs2ilc6rRhI=
 			</data>
 		</dict>
 		<key>Frameworks/glog.framework/Info.plist</key>
@@ -239,7 +239,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1mr25AdVVP+oAO3JMBtXGiwajTqZz16LeIpt8u1Kqr0=
+			Sucz42XnPiQua5mhFlZZJT4AtQlBEiiaWEONy6uqIYo=
 			</data>
 		</dict>
 		<key>Headers/WalleePaymentSdk-Swift.h</key>
