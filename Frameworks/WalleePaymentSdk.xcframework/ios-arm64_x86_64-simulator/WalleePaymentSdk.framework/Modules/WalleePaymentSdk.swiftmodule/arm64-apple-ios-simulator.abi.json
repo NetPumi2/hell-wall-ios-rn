@@ -215,6 +215,27 @@
             "init_kind": "Designated"
           },
           {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "WalleePaymentSdk",
+                "printedName": "WalleePaymentSdk.WalleePaymentSdk",
+                "usr": "s:16WalleePaymentSdkAAC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:16WalleePaymentSdkAACABycfc",
+            "mangledName": "$s16WalleePaymentSdkAACABycfc",
+            "moduleName": "WalleePaymentSdk",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
             "kind": "Function",
             "name": "launchPayment",
             "printedName": "launchPayment(transactionId:token:rootController:)",
@@ -319,21 +340,21 @@
     {
       "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/WalleePaymentSdk.swift",
       "kind": "StringLiteral",
-      "offset": 241,
+      "offset": 244,
       "length": 29,
       "value": "\"wallee.com.WalleePaymentSdk\""
     },
     {
       "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/WalleePaymentSdk.swift",
       "kind": "StringLiteral",
-      "offset": 314,
+      "offset": 317,
       "length": 10,
       "value": "\"RNScreen\""
     },
     {
       "filePath": "\/Users\/lukassalek\/Documents\/work\/wallee\/mobile-sdk-android\/ios\/WalleePaymentSdk\/WalleePaymentSdk.swift",
       "kind": "StringLiteral",
-      "offset": 382,
+      "offset": 385,
       "length": 11,
       "value": "\"rn-screen\""
     }

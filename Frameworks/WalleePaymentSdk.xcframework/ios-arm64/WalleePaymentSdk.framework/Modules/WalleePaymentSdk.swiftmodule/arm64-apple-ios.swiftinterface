@@ -14,7 +14,8 @@ public protocol WalleePaymenResultObserver : AnyObject {
   func error(errorMessage: Swift.String)
 }
 public class WalleePaymentSdk {
-  public init(eventObserver: WalleePaymentSdk.WalleePaymenResultObserver)
+  public init(eventObserver: WalleePaymenResultObserver)
+  public init()
   public func launchPayment(transactionId: Swift.String, token: Swift.String, rootController: UIKit.UIViewController)
   public func close()
   @objc deinit

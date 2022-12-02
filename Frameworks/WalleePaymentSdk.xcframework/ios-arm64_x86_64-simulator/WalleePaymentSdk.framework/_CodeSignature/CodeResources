@@ -79,7 +79,7 @@
 		</data>
 		<key>Headers/WalleePaymentSdk.h</key>
 		<data>
-		g0STjm+uIUZmNixtOSK2s5GqrU4=
+		JpxPWaiLbkwQ42iiqe1glhl3d+Q=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -87,11 +87,11 @@
 		</data>
 		<key>Modules/WalleePaymentSdk.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		q+KU7XTci8UjwP0bc2IP7c5l+SM=
+		eM+gJRddCuow4kaasfP3EazEwr0=
 		</data>
 		<key>Modules/WalleePaymentSdk.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		g3fpAunf40x4jRO5wrrfCe4uvow=
+		VHwsdpW9r+1+YJ/G62sUJC2c2a0=
 		</data>
 		<key>Modules/WalleePaymentSdk.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -99,19 +99,19 @@
 		</data>
 		<key>Modules/WalleePaymentSdk.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		g3fpAunf40x4jRO5wrrfCe4uvow=
+		VHwsdpW9r+1+YJ/G62sUJC2c2a0=
 		</data>
 		<key>Modules/WalleePaymentSdk.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		IJ7Ym2xTvPIh7aIuILFhBOwEEUo=
+		3Cdph/BMqe2E+iFCCJy+28gOU4I=
 		</data>
 		<key>Modules/WalleePaymentSdk.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		q+KU7XTci8UjwP0bc2IP7c5l+SM=
+		eM+gJRddCuow4kaasfP3EazEwr0=
 		</data>
 		<key>Modules/WalleePaymentSdk.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		ol+PLt2goJ1sxtCTI72IO2wxQtM=
+		Or4LKQ5dqrtIDL2nDzXt3FTSbo8=
 		</data>
 		<key>Modules/WalleePaymentSdk.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -119,11 +119,11 @@
 		</data>
 		<key>Modules/WalleePaymentSdk.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		ol+PLt2goJ1sxtCTI72IO2wxQtM=
+		Or4LKQ5dqrtIDL2nDzXt3FTSbo8=
 		</data>
 		<key>Modules/WalleePaymentSdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		KpyDaWHuYWxFFA+ermCfuDBvxZE=
+		VM7AWGvRSxPFJUGNU7o+mMCamDM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -143,7 +143,7 @@
 		</data>
 		<key>main.jsbundle</key>
 		<data>
-		OIi2+n+kZ8ZPKVI3NKMjtEuaAIQ=
+		eJY+B/pbXI0RTz40ko42LwUlJHw=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -273,21 +273,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qY6Qlnql2BSACKetq6Nvdz5nAF+wetNfrLPlcmK1E5w=
+			8j/TZ54Xwtpdds8xKzQRkG+mA5SU2NEuQpV/uzR/xEM=
 			</data>
 		</dict>
 		<key>Modules/WalleePaymentSdk.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CTtdemdoDwqG1MzSIx9EmOdT85JrQhvP3aySXc6ofvk=
+			1l7oj9Bn0+NppCkGMyRxd3jnmheFymIZhJ+vOd5C8Rk=
 			</data>
 		</dict>
 		<key>Modules/WalleePaymentSdk.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			U3Nj0RInxZH5yf6AjYVYeKwCU1aSbAJ8UE8yORwyWCs=
+			hvmFbzcPA6iM4F7pFmOOyn/MV+gUXJdta8niSHEsODs=
 			</data>
 		</dict>
 		<key>Modules/WalleePaymentSdk.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -301,28 +301,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			U3Nj0RInxZH5yf6AjYVYeKwCU1aSbAJ8UE8yORwyWCs=
+			hvmFbzcPA6iM4F7pFmOOyn/MV+gUXJdta8niSHEsODs=
 			</data>
 		</dict>
 		<key>Modules/WalleePaymentSdk.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1vCIWWtXQir8fW3P0oO2CyvOD+tk+KTsNiESokx3Z5I=
+			0K6fIjQ2T/Y7ag5QK9jtOfYCYZjspYxV4u4Gl4py7Fk=
 			</data>
 		</dict>
 		<key>Modules/WalleePaymentSdk.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CTtdemdoDwqG1MzSIx9EmOdT85JrQhvP3aySXc6ofvk=
+			1l7oj9Bn0+NppCkGMyRxd3jnmheFymIZhJ+vOd5C8Rk=
 			</data>
 		</dict>
 		<key>Modules/WalleePaymentSdk.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ywiaxeiKstRM03RA9t/YXFLYXHFqhpdY1gokA3Cbyxc=
+			4IPdWnBalPLwe4lBkVFd1gxIdx9C9Lo63s/1Y+dD7cM=
 			</data>
 		</dict>
 		<key>Modules/WalleePaymentSdk.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -336,14 +336,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ywiaxeiKstRM03RA9t/YXFLYXHFqhpdY1gokA3Cbyxc=
+			4IPdWnBalPLwe4lBkVFd1gxIdx9C9Lo63s/1Y+dD7cM=
 			</data>
 		</dict>
 		<key>Modules/WalleePaymentSdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SUt7FJBXnsFe8dAJIj7tUSnH9qmS5MVJBYcbBa9cvM0=
+			Iws4sQ/Eog9w6fr7hPTwp21ZwLmFlDEj4+u8ZRkNFJo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -378,7 +378,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ICOq5w7RBlgk9foyGf9bnL/EEW2hgk7M24KCKUaYvTQ=
+			t6DvogNiI4FzYrHRg/nCW8XFgG4gcQD01sbl+r4RDBw=
 			</data>
 		</dict>
 	</dict>
